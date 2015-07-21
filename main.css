@@ -1,0 +1,52 @@
+.container {
+  width: 100%;
+}
+
+.outerRow {
+  display: block;
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+  padding: 12px;
+  margin: 10px;
+  font-size: 11px;
+}
+
+.col {
+  text-align: center;
+  display: inline-block;
+  padding-bottom: 130px;
+  width: 49%;
+  max-width: 1200px;
+  border: solid;
+  border-width: 1px;
+}
+
+.innerRow {
+  border-width: .5px;
+  border-color: black;
+  border: solid;
+  padding-bottom: 10px;
+}
+
+#col4 {
+  vertical-align: top;
+  width: 30%;
+  padding-bottom: 165px;
+}
+
+#col8 {
+  width: 65%;
+  padding: 10px;
+  padding-bottom: 140px;
+  padding-top: 0px;
+}
+
+.col1 {
+  padding-bottom: 20px;
+  display: inline-block;
+  text-align: center;
+  border: solid;
+  border-width: 1px;
+  width: 7%
+}
